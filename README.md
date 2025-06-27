@@ -63,5 +63,5 @@ This notebook includes:
 - Deploy model into a web app (Flask/Streamlit)
 
 ## 📬 Contact
-For queries or contributions, open an issue or reach out on GitHub:  
-https://github.com/yourusername/soybean-classification
+For queries or contributions, open an issue or visit the project:  
+🔗 https://github.com/Hemanthsai2468/Soyabean-seed-classification
